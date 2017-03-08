@@ -3,10 +3,8 @@ layout: post
 title:  "Mulheres Ambiciosas"
 comments: true
 date:   2017-03-08 10:00:52
-categories: iniciante
+categories: iniciante, off-topic, convidadas
 ---
-
-# Mulheres Ambiciosas
 
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. Refleti muito a respeito do que escrever, do que eu poderia agregar de alguma forma nesse dia que tem tanto significado e resolvi que gostaria de conversar com vocês sobre **ambição. Quão ambiciosa você se considera?** 
 
