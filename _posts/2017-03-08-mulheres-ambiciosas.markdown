@@ -6,14 +6,14 @@ date:   2017-03-08 10:00:52
 categories: convidadas
 ---
 Olá pessoas, bem-vindos ao blog do Pyladies Salvador! :tada:
-É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Leticia Portella!** 
-A Leticia é oceanográfa, coorganizadora do Pyladies Ribeirão Preto, palestrante e desenvolvedora back-end na Crave Foods Service. Além de ser bastante ativa na comunidade python, a Letícia mantém um [blog](https://medium.com/@leportella), o qual não só escreve textos técnicos mas como, compartilha um pouco da sua trajetória com desenvolvimento e sua experiência em mudar de área. 
-Devido ao seus esforços e engajamento com a comunidade, convidamos a Leticia para escrever um post especial nesse dia 08/03. Então, vamos conferir?!
+É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Letícia Portella!** 
+A Letícia é oceanográfa, coorganizadora do Pyladies Ribeirão Preto, palestrante e desenvolvedora back-end na Crave Foods Service. Além de ser bastante ativa na comunidade python, a Letícia mantém um [blog](https://medium.com/@leportella) no qual, não só escreve textos técnicos, mas também compartilha um pouco da sua trajetória com desenvolvimento e sua experiência em mudar de área. 
+Devido à sua [história](https://medium.com/@leportella/de-ocean%C3%B3grafa-a-programadora-645b8d15a136#.3n5vsk5p5) e engajamento com a comunidade, convidamos a Letícia para escrever um post especial nesse dia 08/03. Então, vamos conferir?!
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. Refleti muito a respeito do que escrever, do que eu poderia agregar de alguma forma nesse dia que tem tanto significado e resolvi que gostaria de conversar com vocês sobre **ambição. Quão ambiciosa você se considera?** 
-![GifFoca](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)
+![Gif-1](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)
 
 Sim, essa pergunta não é fácil e muito menos recorrente. Se você não tem uma resposta exata, vamos tentar dissecar esse tema de forma um pouco mais detalhada. Qual é o seu objetivo na vida? Aonde você quer chegar? Quão longe esta ideia está da onde você se vê chegando? Você realmente acha que aonde você quer chegar é o mais longe que você conseguiria chegar? 
 
@@ -22,7 +22,7 @@ Lendo o livro da Sheryl Sandberg (diretora de operações do Facebook) me depare
 * *Enquanto 36% dos homens gostaria de se tornar diretor, apenas 18% das mulheres apresentavam a mesma vontade.* 
 * *Ao ser ofertado um emprego, 57% dos homens negociavam seus salários enquanto apenas 7% das mulheres o faziam.* 
 * *Ao se apresentar um mesmo currículo sob nomes de gêneros diferentes (Heidi and Hyde), as pessoas tendem identificar as mulheres como “mandonas”, “difíceis de lidar” e normalmente, os entrevistados não se sentiriam dispostos a trabalhar com a pessoa do sexo feminino.* 
-![Gif-crying](https://cdn-images-1.medium.com/max/600/1*aI50TTvAujo8e9J2UDBEQQ.gif)
+![Gif-2](https://cdn-images-1.medium.com/max/600/1*aI50TTvAujo8e9J2UDBEQQ.gif)
 
 O que isso nos diz sobre mulheres ambiciosas? Passei a refletir a respeito e comecei a perceber como nossos exemplos de mulheres ambiciosas normalmente estão vinculados à mulheres problemáticas, viciadas em trabalho, com pouca vida social e não vou nem comentar sobre família! São as Good Wifes da vida… Não se lembra? Pense bem: me diga 1 ou 2 exemplos de mulheres bem sucedidas na ficção cuja vida é estável e controlada. Lembro-me no entanto de várias poderosas com uma vida (e uma sanidade mental) bem questionável: Carrie (Homeland), Cuddy (House), Annalise (How to get Away with Muder), Margaret (A proposta), Alicia (The good wife) e por aí vai…
 
@@ -35,7 +35,7 @@ Então vamos à reflexão… de que forma você reconhece seus resultados e conq
 Vamos parar de dizer que “nós conseguimos o resultado” quando quem conseguiu foi você e você sozinha? Vamos parar de menosprezar nossas conquistas e assumir nossos feitos? Sim, sempre tem alguém que faz mais ou melhor, mas isso não desmerece nossos esforços em conseguir algo. Ou até mesmo um esforço em não conseguir algo. A derrota tem que ser vista como forma de aprendizado e não como algo a nos culpar para a vida. 
 
 Sim, existe o medo… o medo de não conseguir, de fazer a escolha errada, o medo de errar, de fracassar, de ser uma fraude, de ser julgada e medo de ser uma péssima mãe/filha/esposa. Todos esses medos existem, são reais e são, muitas vezes, paralisantes. Mas a falta de confiança pode ser uma profecia que se cumpre sozinha. Meu convite aqui hoje é para você refletir sobre isso e tentar mudar essa história. Nem que seja uma conquista de cada vez. Que tal chegar para alguém que você admira e dizer: “eu conquistei isso” ou “eu fiz isso sozinha e estou orgulhosa do que consegui”. Se você se sentir um pouco mais orgulhosa e confiante, acho que terei conquistado o que eu queria.
-![Gif-crying](https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif)
+![Gif-3](https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif)
 
 E então eu te pergunto novamente… aonde você quer chegar? 
 
