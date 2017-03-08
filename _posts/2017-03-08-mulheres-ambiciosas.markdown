@@ -5,7 +5,8 @@ comments: true
 date:   2017-03-08 10:00:52
 categories: convidadas
 ---
-Olá pessoas, bem-vindo ao blog do Pyladies Salvador! :tada: É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Leticia Portella!** 
+Olá pessoas, bem-vindos ao blog do Pyladies Salvador! :tada:
+É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Leticia Portella!** 
 A Leticia é oceanográfa, coorganizadora do Pyladies Ribeirão Preto, palestrante e desenvolvedora back-end na Crave Foods Service. Além de ser bastante ativa na comunidade python, a Letícia mantém um [blog](https://medium.com/@leportella), o qual não só escreve textos técnicos mas como, compartilha um pouco da sua trajetória com desenvolvimento e sua experiência em mudar de área. 
 Devido ao seus esforços e engajamento com a comunidade, convidamos a Leticia para escrever um post especial nesse dia 08/03. Então, vamos conferir?!
 --------------------------------------------------------------------------------------------------------------------------------------
