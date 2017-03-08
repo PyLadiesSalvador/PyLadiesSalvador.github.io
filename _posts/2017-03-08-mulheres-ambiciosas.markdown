@@ -8,7 +8,7 @@ categories: convidadas
 Olá pessoas, bem-vindo ao blog do Pyladies Salvador! :tada: É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Leticia Portella!** 
 A Leticia é oceanográfa, coorganizadora do Pyladies Ribeirão Preto, palestrante e desenvolvedora back-end na Crave Foods Service. Além de ser bastante ativa na comunidade python, a Letícia mantém um [blog](https://medium.com/@leportella), o qual não só escreve textos técnicos mas como, compartilha um pouco da sua trajetória com desenvolvimento e sua experiência em mudar de área. 
 Convidamos a Leticia por ter uma personalidade forte (e uma amiga muito querida) para escrever um post especial nesse dia 08/03. Então, vamos conferir?!
----
+----------------------------------------------------------------------------------------------------------------------------------------
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. Refleti muito a respeito do que escrever, do que eu poderia agregar de alguma forma nesse dia que tem tanto significado e resolvi que gostaria de conversar com vocês sobre **ambição. Quão ambiciosa você se considera?** 
 ![GifFoca](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)
 
