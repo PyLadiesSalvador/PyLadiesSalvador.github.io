@@ -3,7 +3,7 @@ layout: post
 title:  "Mulheres Ambiciosas"
 comments: true
 date:   2017-03-08 10:00:52
-categories: iniciante, off-topic, convidadas
+categories: convidadas
 ---
 Olá pessoas, bem-vindo ao blog do Pyladies Salvador! :tada: É com imenso prazer que estreamos o nosso blog com um post super especial escrito pela **Leticia Portella!** 
 A Leticia é oceanográfa, coorganizadora do Pyladies Ribeirão Preto, palestrante e desenvolvedora back-end na Crave Foods Service. Além de ser bastante ativa na comunidade python, a Letícia mantém um [blog](https://medium.com/@leportella), o qual não só escreve textos técnicos mas como, compartilha um pouco da sua trajetória com desenvolvimento e sua experiência em mudar de área. 
@@ -35,3 +35,5 @@ Sim, existe o medo… o medo de não conseguir, de fazer a escolha errada, o med
 ![Gif-crying](https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif)
 
 E então eu te pergunto novamente… aonde você quer chegar? 
+
+*Texto originalmente escrito por: Léticia Portella*
